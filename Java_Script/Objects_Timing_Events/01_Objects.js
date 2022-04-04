@@ -7,15 +7,19 @@ var student = {}; //empty student
 
 var student3 = new Object();
 
-var student1 = {name : 'abc' , rollNo : 135 , marks : 100};
+var student1 = {
+                name : 'abc' , 
+                rollNo : 135 , 
+                marks : 100
+            };
 
 
-student1.marks;
+student1.marks; //100
+console.log(student1.marks);
+student1.marks = 87;
 
-marks = 87;
-
-student1.marks;
-
+student1.marks; //87
+console.log(student1.marks);
 student1.sem; // sem is not there but o/p undefined
 // to add new key and value
 student1.sem = 4;

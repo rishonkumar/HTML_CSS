@@ -15,4 +15,5 @@ student1.address;
 student1.address.city;
 
 student1.address["city"]
+student1["address"]["city"]
 
