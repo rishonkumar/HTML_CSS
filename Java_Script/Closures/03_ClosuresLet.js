@@ -13,6 +13,6 @@ for(let i = 1 ; i<= 5 ; i++) {
         console.log(i);
     },1000);
 }
-// O/p - 1 2 3   4 5 6 
+// O/p - 1 2 3 4 5 6 
 
 console.log("After for loop " , i) // 6
