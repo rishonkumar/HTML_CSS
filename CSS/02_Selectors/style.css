@@ -1,0 +1,40 @@
+/* Selecting all elements not inheriting */
+/* * {
+  border: 3px solid black;
+} */
+/* Body is inherited */
+body {
+  font-size: 18px;
+  /* border: 3px solid black; */
+}
+
+main {
+  font-family: monospace;
+}
+
+p {
+  color: purple;
+}
+
+/* Class selector */
+.gray {
+  color: gray;
+}
+
+/* ID  */
+
+#second {
+  font-style: italic;
+}
+
+h1,
+h2 {
+  color: blue;
+}
+
+.highlight {
+  text-transform: uppercase;
+  background-color: gold;
+}
+
+/* ID >  Class > tag selectors */

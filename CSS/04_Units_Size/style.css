@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 50%;
+}
+
+body {
+  min-height: 100vh;
+}
+
+h1 {
+  border: 2px dashed red;
+  width: 50%;
+}
+
+p {
+  /* font-size: 32px; */
+  /* font-size: 2em; */
+  font-size: 2rem;
+}
