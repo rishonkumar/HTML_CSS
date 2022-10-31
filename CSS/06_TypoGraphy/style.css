@@ -1,0 +1,29 @@
+/*
+Is the way that text is arranged and presented 
+
+
+*/
+
+body {
+  padding: 10%;
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+
+/* input,
+button {
+  font: inherit;
+
+} */
+
+p {
+  /* text-decoration: none; */
+  /* text-transform: capitalize; */
+  /* text-align: justify; */
+  /* text-indent: 5rem; */
+  /* line-height: 1.5rem; */
+  /* letter-spacing: 1em; */
+  /* word-spacing: 0.5rem; */
+  font-weight: 600;
+  font-style: oblique;
+}
